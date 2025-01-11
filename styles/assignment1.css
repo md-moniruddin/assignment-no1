@@ -36,6 +36,38 @@ nav ul li{
     border-radius: 6px;
     border-color: #006A50;
     padding: 15px 30px;
+}
 
+/* banner styles */
+.banner{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 160px;
+    margin-right: 160px;
+}
+.banner-title{
+    color: #767575;
+    margin-left: 0;
+}
 
+div{
+    background-color: #C6E4D6;
+    border-radius: 15px;
+    margin-right: 160px;
+    text-align: left;
+    padding:30px 30px ;
+}
+
+.banner-pic{
+    width: 480px;
+    padding-right: 80px 60px 80px;
+}
+
+.btn-new-bang{
+    color: white;
+    background-color: #006A50;
+    border-radius: 6px;
+    border: none;
+    font-size: 20px;
+    padding: 18px 32px;
 }
