@@ -1,0 +1,41 @@
+
+
+
+.fira-sans-normal{
+  font-family: "fira Sans", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+
+/* nav styles */
+nav ul{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 24px 160px 24px 160px;
+}
+
+nav ul li{
+
+    list-style: none;
+    font-size: 32px;
+    color: black;
+    font-weight: 20px;
+    line-height: 38px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+/* sign-in */
+.btn-sign-in{
+    background-color: #F5F5F5;
+    color: #006A50;
+    font-weight:500;
+    font-size: 15px;
+    border-radius: 6px;
+    border-color: #006A50;
+    padding: 15px 30px;
+
+
+}
