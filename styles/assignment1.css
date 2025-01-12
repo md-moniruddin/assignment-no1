@@ -43,21 +43,18 @@ nav ul li{
 /* banner styles */
 .banner{
     display: flex;
-    justify-content: space-evenly;
-    margin-left: 160px;
-    margin-right: 160px;
+    justify-content: space-between;
+    margin: 0 160px 0 160px;
+    background-color: #C6E4D6;
+    border-radius: 15px;
+    padding:35px 35px 35px;
+}
+.banner-content{
+    margin: 25px 0 0 20px;
 }
 .banner-title{
     color: #767575;
     margin-left: 0;
-}
-
-div{
-    background-color: #C6E4D6;
-    border-radius: 15px;
-    margin-right: 160px;
-    text-align: left;
-    padding:30px 30px ;
 }
 
 .banner-pic{
@@ -67,6 +64,7 @@ div{
 
 .btn-new-bang{
     color: white;
+    margin: 30px 0 0 0;
     background-color: #006A50;
     border-radius: 6px;
     border: none;
@@ -75,29 +73,30 @@ div{
 }
 /* visions */
 .visions{
-    margin-top: 120px;
-    margin-left: 160px;
-    margin-right: 160px;
+    margin: 20px 160px 0 160px;
+    
 }
 .visions-3box{
     display: flex;
-    background-color:white;
-    justify-content: space-evenly;
-    width: 850px;
-    height: 400px;
+    gap: 25px;
 }
 .vision-b1{
 background-color: rgba(84, 144, 245, 0.2);
+padding: 30px;
+border-radius: 15px;
 
 }
 
 .vision-b2{
     background-color: rgb(198, 228, 214);
-
+    padding: 30px;
+    border-radius: 15px;
 }
 
 .vision-b3{
 background-color: rgb(247, 235, 207);
+padding: 30px;
+border-radius: 15px;
 }
 
 .vision-btn1{
