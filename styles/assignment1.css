@@ -189,3 +189,105 @@ border-radius: 15px;
 }
 
 
+/* donate part */
+
+.donate{
+    margin: 80px 160px 0 160px;
+}
+
+.donate-text{
+    text-align: center;
+}
+
+.donate-description{
+    margin: 0 88px 0 88px;
+}
+
+.cards{
+    text-align: center;
+    margin-top: 8px;
+    
+}
+
+.card-btn{
+    border: none;
+font-size: 20px;
+padding: 10px 15px;
+gap: 15px;
+border-radius: 13px;
+margin: 30px 0 20px 0;
+}
+
+.card-btn3{
+    border: none;
+    background-color: rgb(198, 228, 214);
+    font-size: 20px;
+padding: 10px 15px;
+gap: 15px;
+border-radius: 13px;
+margin: 30px 0 20px 0;
+}
+
+.done{
+    text-align: center;
+    margin: auto;
+}
+.amount-tk{
+    width: 1032px !important;
+    height: 54px !important;
+    padding: 5px;
+    text-align: center;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+.done-btn{
+    background-color: rgb(0, 106, 80);
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size: 13px;
+    padding: 5px 15px;
+    width: 150px;
+    height: 55px;
+}
+
+.subscribe{
+    text-align: center;
+    background-color: #C6E4D6 ;
+    border-radius: 15px;
+    padding: 40px;
+    margin-top: 40px;
+}
+
+.email-input{
+    width: 600px;
+    height: 55px;
+    padding: 0 40px 0 40px;
+    border-radius:8px 0 0 8px;
+    border: none;
+}
+
+.subs-btn{
+    background-color: rgb(0, 106, 80);
+    font-size: 13px;
+    color: white;
+    width: 150px;
+    height: 56px;
+    padding: 0 34px 0 34px;
+    border-radius:0 8px 8px 0;
+    border: none;
+}
+
+.bangladesh-last{
+    text-align: center;
+    margin-top: 80px;
+}
+
+.icon-all{
+    margin: 40px 0 60px 0;
+    display: flex;
+    justify-content: space-between;
+    margin: 40px 630px 60px 630px;
+}
