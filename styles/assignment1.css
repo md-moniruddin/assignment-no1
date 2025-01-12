@@ -125,3 +125,67 @@ border-radius: 15px;
     font-size: 13px;
     padding: 5px 15px;
 }
+
+/* recent news */
+
+.recent-news{
+    margin-top: 30px;
+    margin: 0 160px 0 160px;
+}
+
+.btn-satallite{
+    background-color: #006A50;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size: 13px;
+    padding: 5px 15px;
+}
+
+.bng-satell-textcolor{
+    color: rgba(14, 14, 14, 0.7);
+}
+
+
+.bang-satallite-1{
+    background-color: white;
+    border-radius: 16px;
+    padding: 30px;
+    display: flex;
+    margin: 30px 160px 0 160px;
+    gap: 25px;
+}
+
+.bng-satellite-img1{
+    border-radius: 16px;
+    
+}
+
+
+.bang-satallite-2{
+    background-color: white;
+    border-radius: 16px;
+    padding: 30px;
+    display: flex;
+    margin: 30px 160px 0 160px;
+    gap: 25px;
+}
+
+.bng-satellite-img2{
+    border-radius: 16px;  
+}
+
+.bang-satallite-3{
+    background-color: white;
+    border-radius: 16px;
+    padding: 30px;
+    display: flex;
+    margin: 30px 160px 0 160px;
+    gap: 25px;
+}
+
+.bng-satellite-img3{
+    border-radius: 16px;  
+}
+
+
